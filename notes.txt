@@ -1,0 +1,11 @@
+For API testing in C# - use RestSharp library for API testing
+
+
+To do:
+
+change the render url back to the development url?
+
+or use the test.db?
+
+
+
