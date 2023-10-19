@@ -1,11 +1,8 @@
-For API testing in C# - use RestSharp library for API testing
+Mobile App Dev assignment:
 
+Environment and software: Android Studio Emulator
 
-To do:
-
-change the render url back to the development url?
-
-or use the test.db?
+Exploratory testing
 
 
 
