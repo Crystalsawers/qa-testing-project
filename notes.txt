@@ -1,8 +1,29 @@
-Mobile App Dev assignment:
-
-Environment and software: Android Studio Emulator
-
-Exploratory testing
+To do in code testing:
 
 
+Create
 
+- All valid fields
+- All invalid fields
+
+Update
+
+- All valid fields
+- All invalid fields
+
+Delete
+
+- All valid fields
+- All invalid fields
+
+
+
+then do the documentation results/analysis in exec doc:
+
+
+
+
+Debug stuff
+
+
+Then test summary report with graphs and things
