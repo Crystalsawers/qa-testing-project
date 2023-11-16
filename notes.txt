@@ -27,3 +27,19 @@ Debug stuff
 
 
 Then test summary report with graphs and things
+
+
+
+
+Testing types used in code:
+
+
+End-to-End Testing (E2E Testing): This is the primary type of testing you're doing with Cypress. E2E testing involves testing the workflow of your application from start to finish, as a user would experience it. It's designed to simulate real user scenarios to ensure the system behaves as expected. In your case, creating, updating, and validating forms in the application mimics what an end-user would do.
+
+Integration Testing: While Cypress is mainly known for E2E testing, the scenarios you're testing (like form submissions and subsequent validations) also touch upon integration testing. This involves checking if different parts of the application (like the frontend submitting a form and the backend processing it) work together correctly.
+
+Functional Testing: This type of testing is focused on the business requirements of an application. It involves testing the application's functionalities based on its specifications. When you're writing tests to ensure that your forms behave (function) as expected (like handling inputs, showing error messages), you're conducting functional testing.
+
+User Interface (UI) Testing: This involves testing the graphical interface of your application, like how elements are displayed on the screen, and how they respond to user interactions. When you test elements like modals, input fields, and buttons, and their visibility and interaction, you're doing UI testing.
+
+Validation Testing: Specifically, when you're checking whether the forms in your application are correctly validating user input and displaying appropriate error messages, you're engaging in a form of validation testing.
